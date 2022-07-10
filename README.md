@@ -1,6 +1,6 @@
 ## Evaluation 08.1 List view Android Studio
 
-![Screen-List-View](./images/README.png) 
+![Screen-List-View]() 
 
 ### Project Mock-up
 
@@ -12,15 +12,14 @@
 
 ### Project Ressources
 * main
-        - [main](https://github.com/MiguelJerome/menu-options07/tree/main/Evaluation_formative_07_1/app/src/main)
+        - [main](https://github.com/MiguelJerome/Android08_01/tree/main/app/src/main)
 
 # IMPORTANT FILES
 * main java
-        - [MainActivity.java](https://github.com/MiguelJerome/menu-options07/blob/main/Evaluation_formative_07_1/app/src/main/java/ca/collegelacite/evaluation_formative_07_1/MainActivity.java)  
-* main xml - [AndroidMainifest.xml](https://github.com/MiguelJerome/menu-options07/blob/main/Evaluation_formative_07_1/app/src/main/AndroidManifest.xml)   
+        - [MainActivity.java](https://github.com/MiguelJerome/Android08_01/blob/main/app/src/main/java/com/example/evaluation_formative08_01_2001326/MainActivity.java)  
+* main xml - [AndroidMainifest.xml](https://github.com/MiguelJerome/Android08_01/blob/main/app/src/main/AndroidManifest.xml)   
 
-* ressource menu -[menu_main.xml](https://github.com/MiguelJerome/menu-options07/blob/main/Evaluation_formative_07_1/app/src/main/res/menu/menu_main.xml)
-* ressource layout -[activity_main.xml](https://github.com/MiguelJerome/menu-options07/blob/main/Evaluation_formative_07_1/app/src/main/res/layout/activity_main.xml)
+* ressource layout -[activity_main.xml](https://github.com/MiguelJerome/Android08_01/tree/main/app/src/main/res/layout)
 
 ##  Material Design 3
 
