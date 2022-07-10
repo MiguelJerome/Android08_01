@@ -19,11 +19,11 @@
         - [MainActivity.java](https://github.com/MiguelJerome/Android08_01/blob/main/app/src/main/java/com/example/evaluation_formative08_01_2001326/MainActivity.java)  
 * main xml - [AndroidMainifest.xml](https://github.com/MiguelJerome/Android08_01/blob/main/app/src/main/AndroidManifest.xml)   
 
-* ressource layout -[activity_main.xml](https://github.com/MiguelJerome/Android08_01/tree/main/app/src/main/res/layout)
+* ressource layout -[activity_main.xml](https://github.com/MiguelJerome/Android08_01/blob/main/app/src/main/res/layout/activity_main.xml)
 
 ##  Material Design 3
 
-* [Material-Design=3](https://m3.material.io/)
+* [Material-Design-3](https://m3.material.io/)
 
 ##  ALL my ressources for Evaluation 08.1 List view Android Studio
 
